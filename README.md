@@ -130,3 +130,10 @@ db.getCollection('RateLimitRules').insertOne({
 });
 
 
+
+Postman Collection for API
+
+
+
+
+[UserNotes.postman_collection.json](https://github.com/mishraatul549/NotesBackend/files/13830017/UserNotes.postman_collection.json)
