@@ -4,6 +4,9 @@ Steps to run locally
   1.2 Redis at port 6379
   1.3 Node version > 20.6
 2. Run the Node application
+    2.1 nvm use 20
+    2.2 npm install
+    2.3 npm run dev
 
 
 MongoDB database name: test(you can change it in .local.env file)
